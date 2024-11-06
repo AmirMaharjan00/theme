@@ -1,0 +1,1688 @@
+/** 
+	1.0 Social icons
+	2.0 Social Share
+	3.0 Custom Button Icon Hover Effect
+	4.0 News Kit Elementor Compatible
+
+**/
+
+
+	/** Social Icons **/
+
+		.social-platforms-widget.global-color-icon .fa-facebook-f {
+			background-color: #1877F2;
+			box-shadow: 0 5px 10px -2px #1877F2;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-instagram,
+		.social-platforms-widget.global-color-icon .fa-square-instagram {
+			background-color: #E1306C;
+			box-shadow: 0 5px 10px -2px #E1306C;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-youtube {
+			background-color: #FF0000;
+			box-shadow: 0 5px 10px -2px #FF0000;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-google-wallet {
+			background-color: #09a25a;
+			box-shadow: 0 5px 10px -2px #09a25a;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-twitter {
+			background-color: #1DA1F2;
+			box-shadow: 0 5px 10px -2px #1DA1F2;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-x-twitter {
+			background-color: #222222;
+			box-shadow: 0 5px 10px -2px #222222;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-linkedin {
+			background-color: #0A66C2;
+			box-shadow: 0 5px 10px -2px #0A66C2;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-reddit {
+			background-color: #FF5700;
+			box-shadow: 0 5px 10px -2px #FF5700;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-tumblr {
+			background-color: #000;
+			box-shadow: 0 5px 10px -2px #000;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-sina_weibo {
+			background-color: #DF2029;
+			box-shadow: 0 5px 10px -2px #DF2029;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-discord {
+			background-color: #7289da;
+			box-shadow: 0 5px 10px -2px #7289da;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-flicker {
+			background-color: #FF0084;
+			box-shadow: 0 5px 10px -2px #FF0084;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-skype {
+			background-color: #00AFF0;
+			box-shadow: 0 5px 10px -2px #00AFF0;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-telegram {
+			background-color: #2AABEE;
+			box-shadow: 0 5px 10px -2px #2AABEE;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-gmail {
+			background-color: #34a853;
+			box-shadow: 0 5px 10px -2px #34a853;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-whatsapp {
+			background-color: #25d366;
+			box-shadow: 0 5px 10px -2px #25d366;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-google_plus {
+			background-color: #dd4b39;
+			box-shadow: 0 5px 10px -2px #dd4b39;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-qzone {
+			background-color: #FFCD00;
+			box-shadow: 0 5px 10px -2px #FFCD00;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-pinterest {
+			background-color: #E60023;
+			box-shadow: 0 5px 10px -2px #E60023;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-vk {
+			background-color: #4C75A3;
+			box-shadow: 0 5px 10px -2px #4C75A3;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-line_me {
+			background-color: #06C755;
+			box-shadow: 0 5px 10px -2px #06C755;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-blogger {
+			background-color: #fb8f3d;
+			box-shadow: 0 5px 10px -2px #fb8f3d;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-evernote {
+			background-color: #00A82D;
+			box-shadow: 0 5px 10px -2px #00A82D;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-live_journal {
+			background-color: #00adcc;
+			box-shadow: 0 5px 10px -2px #00adcc;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-google_bookmarks {
+			background-color: #DB4437;
+			box-shadow: 0 5px 10px -2px #DB4437;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-yahoo {
+			background-color: #410093;
+			box-shadow: 0 5px 10px -2px #410093;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-okru {
+			background-color: #ed812b;
+			box-shadow: 0 5px 10px -2px #ed812b;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-google_meet {
+			background-color: #00832D;
+			box-shadow: 0 5px 10px -2px #00832D;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-viber {
+			background-color: #7360F2;
+			box-shadow: 0 5px 10px -2px #7360F2;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-google_classroom {
+			background-color: #eda306;
+			box-shadow: 0 5px 10px -2px #eda306;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-pocket {
+			background-color: #ED4255;
+			box-shadow: 0 5px 10px -2px #ED4255;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-mix {
+			background-color: #FF8126;
+			box-shadow: 0 5px 10px -2px #FF8126;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-flipbloard {
+			background-color: #e12828;
+			box-shadow: 0 5px 10px -2px #e12828;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-xing {
+			background-color: #026466;
+			box-shadow: 0 5px 10px -2px #026466;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-digg {
+			background-color: #005be2;
+			box-shadow: 0 5px 10px -2px #005be2;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-stumpleupon {
+			background-color: #EB471D;
+			box-shadow: 0 5px 10px -2px #EB471D;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-delicious {
+			background-color: #585e46;
+			box-shadow: 0 5px 10px -2px #585e46;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-buffer {
+			background-color: #9FF6F9;
+			box-shadow: 0 5px 10px -2px #9FF6F9;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-diaspora {
+			background-color: #000;
+			box-shadow: 0 5px 10px -2px #000;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-hackernews {
+			background-color: #FF6600;
+			box-shadow: 0 5px 10px -2px #FF6600;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-instapaper {
+			background-color: #000;
+			box-shadow: 0 5px 10px -2px #000;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-renren {
+			background-color: #01579B;
+			box-shadow: 0 5px 10px -2px #01579B;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-threema {
+			background-color: #000;
+			box-shadow: 0 5px 10px -2px #000;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-sms {
+			background-color: #8cb4f3;
+			box-shadow: 0 5px 10px -2px #8cb4f3;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-diigo {
+			background-color: #4487C7;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-wordpress {
+			background-color: #00749C;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-pocketcasts {
+			background-color: #F43E37;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-castro {
+			background-color: #44232f;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-douban {
+			background-color: #46C05A;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-mewe {
+			background-color: #000;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-copy_link {
+			background-image: linear-gradient(151deg, #F8997D 0%, #AD336D 100%);
+		}
+
+		.social-platforms-widget.global-color-icon .fa-print {
+			background-color: #000;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-gettr {
+			background-color: #D60909;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-parler {
+			background-color: #D009D6;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-gab {
+			background-color: #09D63E;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-yummly {
+			background-color: #e16120;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-aim {
+			background-color: #F10202;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-amazon_wish_list {
+			background-color: #061421;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-bitty_browser {
+			background-color: #09D63E;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-blinklist {
+			background-color: #12E949;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-blogmarks {
+			background-color: #D8AE0C;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-bookmarks_fr {
+			background-color: #BDD80C;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-box_net {
+			background-color: #2509DB;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-buddymarks {
+			background-color: #48a9c5;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-diary_ru {
+			background-color: #56a0d3;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-draugiem {
+			background-color: #ff6a00;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-fark {
+			background-color: #7fbb00;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-fintel {
+			background-color: #537b35;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-folkd {
+			background-color: #b52e31;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-gentle_reader {
+			background-color: #b3dcff;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-hatena {
+			background-color: #5ecc62;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-kakao {
+			background-color: #ffc20e;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-kik {
+			background-color: #7fbb00;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-kindle_it {
+			background-color: #0079c1;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-known {
+			background-color: #629aa9;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-meneame {
+			background-color: #ff7800;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-mixi {
+			background-color: #aca095;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-myspace {
+			background-color: #075aaa;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-netvouz {
+			background-color: #00acee;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-newsvine {
+			background-color: #2baf2b;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-nujij {
+			background-color: #ce1126;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-odnoklassniki {
+			background-color: #ff7800;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-outlook {
+			background-color: #1769ff;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-papaly {
+			background-color: #44c7f4;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-pinboard {
+			background-color: #ff322e;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-printfriendly {
+			background-color: #01cd74;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-protoge_bookmarks {
+			background-color: #231f20;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-pusha {
+			background-color: #146eb4;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-rediff_mypage {
+			background-color: #b52e31;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-refind {
+			background-color: #136ad5;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-segnalo {
+			background-color: #fb8a2e;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-sitejot {
+			background-color: #ed1b2e;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-slashdot {
+			background-color: #00b2a9;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-stocktwits {
+			background-color: #007fdb;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-stumpedia {
+			background-color: #ffb310;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-svejo {
+			background-color: #f90;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-trello {
+			background-color: #026aa7;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-tuenti {
+			background-color: #000;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-twiddla {
+			background-color: #013ca6;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-typepod_post {
+			background-color: #a0ac48;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-viadeo {
+			background-color: #EE7356;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-wykop {
+			background-color: #0091cd;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-yoolink {
+			background-color: #007cc0;
+		}
+
+		.social-platforms-widget.global-color-icon .fa-youmob {
+			background-color: #fcd535;
+		}
+
+
+	/** Social Share **/
+		header .blogmatic-social-icon.official-color--enabled .fa-facebook-f,
+		footer .blogmatic-social-icon.official-color--enabled .fa-facebook-f,
+		header .blogmatic-social-icon.official-color--enabled .fa-facebook,
+		footer .blogmatic-social-icon.official-color--enabled .fa-facebook {
+			color: #1877F2;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-facebook-f,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-facebook,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-square-facebook {
+			background-color: #1877F2;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-instagram,
+		footer .blogmatic-social-icon.official-color--enabled .fa-instagram,
+		header .blogmatic-social-icon.official-color--enabled .fa-square-instagram,
+		footer .blogmatic-social-icon.official-color--enabled .fa-square-instagram {
+			color: #E1306C;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-instagram,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-square-instagram {
+			background-color: #E1306C;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-youtube,
+		footer .blogmatic-social-icon.official-color--enabled .fa-youtube {
+			color: #FF0000;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-youtube {
+			background-color: #FF0000;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-google-wallet,
+		footer .blogmatic-social-icon.official-color--enabled .fa-google-wallet {
+			color: #09a25a;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-google-wallet {
+			background-color: #09a25a;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-twitter,
+		footer .blogmatic-social-icon.official-color--enabled .fa-twitter {
+			color: #1DA1F2;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-twitter {
+			background-color: #1DA1F2;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-x-twitter,
+		footer .blogmatic-social-icon.official-color--enabled .fa-x-twitter,
+		header .blogmatic-social-icon.official-color--enabled .fa-square-x-twitter,
+		footer .blogmatic-social-icon.official-color--enabled .fa-square-x-twitter {
+			color: #333333;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-x-twitter,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-square-x-twitter {
+			background-color: #333333;
+		}
+
+		header .blogmatic-social-icon .fa-linkedin,
+		footer .blogmatic-social-icon .fa-linkedin {
+			color: #0A66C2;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-linkedin {
+			background-color: #0A66C2;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-reddit,
+		footer .blogmatic-social-icon.official-color--enabled .fa-reddit {
+			color: #FF5700;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-reddit,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-reddit-alien,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-square-reddit {
+			background-color: #FF5700;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-tumblr,
+		footer .blogmatic-social-icon.official-color--enabled .fa-tumblr,
+		header .blogmatic-social-icon.official-color--enabled .fa-square-tumblr,
+		footer .blogmatic-social-icon.official-color--enabled .fa-square-tumblr {
+			color: #000;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-tumblr,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-square-tumblr {
+			background-color: #000;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-weixin,
+		footer .blogmatic-social-icon.official-color--enabled .fa-weixin {
+			color: #09B83E;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-weixin {
+			background-color: #09B83E;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-weibo,
+		footer .blogmatic-social-icon.official-color--enabled .fa-weibo {
+			color: #DF2029;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-weibo {
+			background-color: #DF2029;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-google-plus,
+		footer .blogmatic-social-icon.official-color--enabled .fa-google-plus,
+		header .blogmatic-social-icon.official-color--enabled .fa-square-google-plus,
+		footer .blogmatic-social-icon.official-color--enabled .fa-square-google-plus,
+		header .blogmatic-social-icon.official-color--enabled .fa-google-plus-g,
+		footer .blogmatic-social-icon.official-color--enabled .fa-google-plus-g {
+			color: #dd4b39;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-google-plus,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-square-google-plus,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-google-plus-g {
+			background-color: #dd4b39;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-discord,
+		footer .blogmatic-social-icon.official-color--enabled .fa-discord {
+			color: #7289da;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-discord {
+			background-color: #7289da;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-flicker,
+		footer .blogmatic-social-icon.official-color--enabled .fa-flicker {
+			color: #FF0084;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-flicker {
+			background-color: #FF0084;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-skype,
+		footer .blogmatic-social-icon.official-color--enabled .fa-skype {
+			color: #00AFF0;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-skype {
+			background-color: #00AFF0;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-telegram,
+		footer .blogmatic-social-icon.official-color--enabled .fa-telegram {
+			color: #2AABEE;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-telegram {
+			background-color: #2AABEE;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-gmail,
+		footer .blogmatic-social-icon.official-color--enabled .fa-gmail {
+			color: #34a853;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-gmail {
+			background-color: #34a853;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-whatsapp,
+		footer .blogmatic-social-icon.official-color--enabled .fa-whatsapp {
+			color: #25d366;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-whatsapp,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-square-whatsapp {
+			background-color: #25d366;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-google_plus,
+		footer .blogmatic-social-icon.official-color--enabled .fa-google_plus {
+			color: #dd4b39;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-google_plus {
+			background-color: #dd4b39;
+		}
+
+		header .blogmatic-social-icon.official-color--enabledss .fa-qzone,
+		footer .blogmatic-social-icon.official-color--enabledss .fa-qzone {
+			color: #FFCD00;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-qzone {
+			background-color: #FFCD00;
+		}
+
+		header.blogmatic-social-icon.official-color--enabled .fa-pinterest,
+		footer.blogmatic-social-icon.official-color--enabled .fa-pinterest,
+		header.blogmatic-social-icon.official-color--enabled .fa-square-pinterest,
+		footer.blogmatic-social-icon.official-color--enabled .fa-square-pinterest,
+		header.blogmatic-social-icon.official-color--enabled .fa-pinterest-p,
+		footer.blogmatic-social-icon.official-color--enabled .fa-pinterest-p {
+			color: #E60023;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-pinterest,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-square-pinterest,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-pinterest-p {
+			background-color: #E60023;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-vk,
+		footer .blogmatic-social-icon.official-color--enabled .fa-vk {
+			color: #4C75A3;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-vk {
+			background-color: #4C75A3;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-line,
+		footer .blogmatic-social-icon.official-color--enabled .fa-line {
+			color: #06C755;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-line {
+			background-color: #06C755;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-blogger,
+		footer .blogmatic-social-icon.official-color--enabled .fa-blogger,
+		header .blogmatic-social-icon.official-color--enabled .fa-blogger-b,
+		footer .blogmatic-social-icon.official-color--enabled .fa-blogger-b {
+			color: #fb8f3d;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-blogger,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-blogger-b {
+			background-color: #fb8f3d;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-evernote,
+		footer .blogmatic-social-icon.official-color--enabled .fa-evernote {
+			color: #00A82D;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-evernote {
+			background-color: #00A82D;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-live_journal,
+		footer .blogmatic-social-icon.official-color--enabled .fa-live_journal {
+			color: #00adcc;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-live_journal {
+			background-color: #00adcc;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-google_bookmarks,
+		footer .blogmatic-social-icon.official-color--enabled .fa-google_bookmarks {
+			color: #DB4437;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-google_bookmarks {
+			background-color: #DB4437;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-yahoo,
+		footer .blogmatic-social-icon.official-color--enabled .fa-yahoo {
+			color: #410093;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-yahoo {
+			background-color: #410093;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-okru,
+		footer .blogmatic-social-icon.official-color--enabled .fa-okru {
+			color: #ed812b;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-okru {
+			background-color: #ed812b;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-google_meet,
+		footer .blogmatic-social-icon.official-color--enabled .fa-google_meet {
+			color: #00832D;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-google_meet {
+			background-color: #00832D;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-viber,
+		footer .blogmatic-social-icon.official-color--enabled .fa-viber {
+			color: #7360F2;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-viber {
+			background-color: #7360F2;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-google_classroom,
+		footer .blogmatic-social-icon.official-color--enabled .fa-google_classroom {
+			color: #eda306;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-google_classroom {
+			background-color: #eda306;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-pocket,
+		footer .blogmatic-social-icon.official-color--enabled .fa-pocket {
+			color: #ED4255;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-pocket {
+			background-color: #ED4255;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-mix,
+		footer .blogmatic-social-icon.official-color--enabled .fa-mix {
+			color: #FF8126;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-mix {
+			background-color: #FF8126;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-flipbloard,
+		footer .blogmatic-social-icon.official-color--enabled .fa-flipbloard {
+			color: #e12828;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-flipbloard {
+			background-color: #e12828;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-xing,
+		footer .blogmatic-social-icon.official-color--enabled .fa-xing {
+			color: #026466;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-xing {
+			background-color: #026466;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-digg,
+		footer .blogmatic-social-icon.official-color--enabled .fa-digg {
+			color: #005be2;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-digg {
+			background-color: #005be2;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-stumpleupon,
+		footer .blogmatic-social-icon.official-color--enabled .fa-stumpleupon {
+			color: #EB471D;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-stumpleupon {
+			background-color: #EB471D;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-delicious,
+		footer .blogmatic-social-icon.official-color--enabled .fa-delicious {
+			color: #585e46;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-delicious {
+			background-color: #585e46;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-buffer,
+		footer .blogmatic-social-icon.official-color--enabled .fa-buffer {
+			color: #9FF6F9;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-buffer {
+			background-color: #9FF6F9;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-diaspora,
+		footer .blogmatic-social-icon.official-color--enabled .fa-diaspora {
+			color: #000;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-diaspora {
+			background-color: #000;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-hackernews,
+		footer .blogmatic-social-icon.official-color--enabled .fa-hackernews {
+			color: #FF6600;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-hackernews {
+			background-color: #FF6600;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-instapaper,
+		footer .blogmatic-social-icon.official-color--enabled .fa-instapaper {
+			color: #000;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-instapaper {
+			background-color: #000;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-renren,
+		footer .blogmatic-social-icon.official-color--enabled .fa-renren {
+			color: #01579B;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-renren {
+			background-color: #01579B;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-threema,
+		footer .blogmatic-social-icon.official-color--enabled .fa-threema {
+			color: #000;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-threema {
+			background-color: #000;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-sms,
+		footer .blogmatic-social-icon.official-color--enabled .fa-sms {
+			color: #8cb4f3;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-sms {
+			background-color: #8cb4f3;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-diigo,
+		footer .blogmatic-social-icon.official-color--enabled .fa-diigo {
+			color: #4487C7;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-diigo {
+			background-color: #4487C7;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-wordpress,
+		footer .blogmatic-social-icon.official-color--enabled .fa-wordpress,
+		header .blogmatic-social-icon.official-color--enabled .fa-wordpress-simple,
+		footer .blogmatic-social-icon.official-color--enabled .fa-wordpress-simple {
+			color: #00749C;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-wordpress,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-wordpress-simple {
+			background-color: #00749C;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-pocketcasts,
+		footer .blogmatic-social-icon.official-color--enabled .fa-pocketcasts {
+			color: #F43E37;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-pocketcasts {
+			background-color: #F43E37;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-amazon,
+		footer .blogmatic-social-icon.official-color--enabled .fa-amazon {
+			color: #FF9900;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-amazon {
+			background-color: #FF9900;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-castro,
+		footer .blogmatic-social-icon.official-color--enabled .fa-castro {
+			color: #44232f;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-castro {
+			background-color: #44232f;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-douban,
+		footer .blogmatic-social-icon.official-color--enabled .fa-douban {
+			color: #46C05A;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-douban {
+			background-color: #46C05A;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-mewe,
+		footer .blogmatic-social-icon.official-color--enabled .fa-mewe {
+			color: #000;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-mewe {
+			background-color: #000;
+		}
+
+		.blogmatic-social-share .social-share .fa-copy_link {
+			background-image: linear-gradient(151deg, #F8997D 0%, #AD336D 100%);
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-copy {
+			background-image: linear-gradient(151deg, #F8997D 0%, #AD336D 100%);
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-print,
+		footer .blogmatic-social-icon.official-color--enabled .fa-print {
+			color: #000;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-print {
+			background-color: #000;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-gettr,
+		footer .blogmatic-social-icon.official-color--enabled .fa-gettr {
+			color: #D60909;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-gettr {
+			background-color: #D60909;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-parler,
+		footer .blogmatic-social-icon.official-color--enabled .fa-parler {
+			color: #D009D6;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-parler {
+			background-color: #D009D6;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-gab,
+		footer .blogmatic-social-icon.official-color--enabled .fa-gab {
+			color: #09D63E;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-gab {
+			background-color: #09D63E;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-yummly,
+		footer .blogmatic-social-icon.official-color--enabled .fa-yummly {
+			color: #e16120;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-yummly {
+			background-color: #e16120;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-aim,
+		footer .blogmatic-social-icon.official-color--enabled .fa-aim {
+			color: #F10202;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-aim {
+			background-color: #F10202;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-amazon_wish_list,
+		footer .blogmatic-social-icon.official-color--enabled .fa-amazon_wish_list {
+			color: #061421;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-amazon_wish_list {
+			background-color: #061421;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-bitty_browser,
+		footer .blogmatic-social-icon.official-color--enabled .fa-bitty_browser {
+			color: #09D63E;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-bitty_browser {
+			background-color: #09D63E;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-blinklist,
+		footer .blogmatic-social-icon.official-color--enabled .fa-blinklist {
+			color: #12E949;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-blinklist {
+			background-color: #12E949;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-blogmarks,
+		footer .blogmatic-social-icon.official-color--enabled .fa-blogmarks {
+			color: #D8AE0C;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-blogmarks {
+			background-color: #D8AE0C;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-bookmarks_fr,
+		footer .blogmatic-social-icon.official-color--enabled .fa-bookmarks_fr {
+			color: #BDD80C;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-bookmarks_fr {
+			background-color: #BDD80C;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-box_net,
+		footer .blogmatic-social-icon.official-color--enabled .fa-box_net {
+			color: #2509DB;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-box_net {
+			background-color: #2509DB;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-buddymarks,
+		footer .blogmatic-social-icon.official-color--enabled .fa-buddymarks {
+			color: #48a9c5;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-buddymarks {
+			background-color: #48a9c5;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-diary_ru,
+		footer .blogmatic-social-icon.official-color--enabled .fa-diary_ru {
+			color: #56a0d3;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-diary_ru {
+			background-color: #56a0d3;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-draugiem,
+		footer .blogmatic-social-icon.official-color--enabled .fa-draugiem {
+			color: #ff6a00;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-draugiem {
+			background-color: #ff6a00;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-fark,
+		footer .blogmatic-social-icon.official-color--enabled .fa-fark {
+			color: #7fbb00;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-fark {
+			background-color: #7fbb00;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-fintel,
+		footer .blogmatic-social-icon.official-color--enabled .fa-fintel {
+			color: #537b35;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-fintel {
+			background-color: #537b35;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-folkd,
+		footer .blogmatic-social-icon.official-color--enabled .fa-folkd {
+			color: #b52e31;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-folkd {
+			background-color: #b52e31;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-envelope,
+		footer .blogmatic-social-icon.official-color--enabled .fa-envelope {
+			color: #CF202E
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-envelope {
+			background-color: #CF202E
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-gentle_reader,
+		footer .blogmatic-social-icon.official-color--enabled .fa-gentle_reader {
+			color: #b3dcff;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-gentle_reader {
+			background-color: #b3dcff;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-hatena,
+		footer .blogmatic-social-icon.official-color--enabled .fa-hatena {
+			color: #5ecc62;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-hatena {
+			background-color: #5ecc62;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-kakao,
+		footer .blogmatic-social-icon.official-color--enabled .fa-kakao {
+			color: #ffc20e;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-kakao {
+			background-color: #ffc20e;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-kik,
+		footer .blogmatic-social-icon.official-color--enabled .fa-kik {
+			color: #7fbb00;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-kik {
+			background-color: #7fbb00;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-kindle_it,
+		footer .blogmatic-social-icon.official-color--enabled .fa-kindle_it {
+			color: #0079c1;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-kindle_it {
+			background-color: #0079c1;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-known,
+		footer .blogmatic-social-icon.official-color--enabled .fa-known {
+			color: #629aa9;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-known {
+			background-color: #629aa9;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-meneame,
+		footer .blogmatic-social-icon.official-color--enabled .fa-meneame {
+			color: #ff7800;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-meneame {
+			background-color: #ff7800;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-mixi,
+		footer .blogmatic-social-icon.official-color--enabled .fa-mixi {
+			color: #aca095;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-mixi {
+			background-color: #aca095;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-myspace,
+		footer .blogmatic-social-icon.official-color--enabled .fa-myspace {
+			color: #075aaa;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-myspace {
+			background-color: #075aaa;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-netvouz,
+		footer .blogmatic-social-icon.official-color--enabled .fa-netvouz {
+			color: #00acee;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-netvouz {
+			background-color: #00acee;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-newsvine,
+		footer .blogmatic-social-icon.official-color--enabled .fa-newsvine {
+			color: #2baf2b;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-newsvine {
+			background-color: #2baf2b;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-nujij,
+		footer .blogmatic-social-icon.official-color--enabled .fa-nujij {
+			color: #ce1126;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-nujij {
+			background-color: #ce1126;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-odnoklassniki,
+		footer .blogmatic-social-icon.official-color--enabled .fa-odnoklassniki,
+		header .blogmatic-social-icon.official-color--enabled .fa-square-odnoklassniki,
+		footer .blogmatic-social-icon.official-color--enabled .fa-square-odnoklassniki {
+			color: #ff7800;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-odnoklassniki,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-square-odnoklassniki {
+			background-color: #ff7800;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-outlook,
+		footer .blogmatic-social-icon.official-color--enabled .fa-outlook {
+			color: #1769ff;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-outlook {
+			background-color: #1769ff;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-get-pocket,
+		footer .blogmatic-social-icon.official-color--enabled .fa-get-pocket {
+			color: #f0465b;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-get-pocket {
+			background-color: #f0465b;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-flipboard,
+		footer .blogmatic-social-icon.official-color--enabled .fa-flipboard {
+			color: #f52f2f;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-flipboard {
+			background-color: #f52f2f;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-square-xing,
+		footer .blogmatic-social-icon.official-color--enabled .fa-square-xing {
+			color: #116264;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-square-xing {
+			background-color: #116264;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-stumbleupon-circle,
+		footer .blogmatic-social-icon.official-color--enabled .fa-stumbleupon-circle,
+		header .blogmatic-social-icon.official-color--enabled .fa-stumbleupon,
+		footer .blogmatic-social-icon.official-color--enabled .fa-stumbleupon {
+			color: #EB4924;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-stumbleupon-circle,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-stumbleupon {
+			background-color: #EB4924;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-papaly,
+		footer .blogmatic-social-icon.official-color--enabled .fa-papaly {
+			color: #44c7f4;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-papaly {
+			background-color: #44c7f4;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-hacker-news,
+		footer .blogmatic-social-icon.official-color--enabled .fa-hacker-news {
+			color: #ff6600;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-hacker-news {
+			background-color: #ff6600;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-hacker-news,
+		footer .blogmatic-social-icon.official-color--enabled .fa-hacker-news {
+			color: #ff6600;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-hacker-news {
+			background-color: #ff6600;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-comment-sms,
+		footer .blogmatic-social-icon.official-color--enabled .fa-comment-sms {
+			color: #39ff5a;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-comment-sms {
+			background-color: #39ff5a;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-printfriendly,
+		footer .blogmatic-social-icon.official-color--enabled .fa-printfriendly {
+			color: #01cd74;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-printfriendly {
+			background-color: #01cd74;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-protoge_bookmarks,
+		footer .blogmatic-social-icon.official-color--enabled .fa-protoge_bookmarks {
+			color: #231f20;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-protoge_bookmarks {
+			background-color: #231f20;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-pusha,
+		footer .blogmatic-social-icon.official-color--enabled .fa-pusha {
+			color: #146eb4;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-pusha {
+			background-color: #146eb4;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-rediff_mypage,
+		footer .blogmatic-social-icon.official-color--enabled .fa-rediff_mypage {
+			color: #b52e31;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-rediff_mypage {
+			background-color: #b52e31;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-refind,
+		footer .blogmatic-social-icon.official-color--enabled .fa-refind {
+			color: #136ad5;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-refind {
+			background-color: #136ad5;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-segnalo,
+		footer .blogmatic-social-icon.official-color--enabled .fa-segnalo {
+			color: #fb8a2e;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-segnalo {
+			background-color: #fb8a2e;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-sitejot,
+		footer .blogmatic-social-icon.official-color--enabled .fa-sitejot {
+			color: #ed1b2e;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-sitejot {
+			background-color: #ed1b2e;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-slashdot,
+		footer .blogmatic-social-icon.official-color--enabled .fa-slashdot {
+			color: #00b2a9;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-slashdot {
+			background-color: #00b2a9;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-stocktwits,
+		footer .blogmatic-social-icon.official-color--enabled .fa-stocktwits {
+			color: #007fdb;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-stocktwits {
+			background-color: #007fdb;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-stumpedia,
+		footer .blogmatic-social-icon.official-color--enabled .fa-stumpedia {
+			color: #ffb310;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-stumpedia {
+			background-color: #ffb310;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-svejo,
+		footer .blogmatic-social-icon.official-color--enabled .fa-svejo {
+			color: #f90;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-svejo {
+			background-color: #f90;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-trello,
+		footer .blogmatic-social-icon.official-color--enabled .fa-trello {
+			color: #026aa7;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-trello {
+			background-color: #026aa7;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-tuenti,
+		footer .blogmatic-social-icon.official-color--enabled .fa-tuenti {
+			color: #000;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-tuenti {
+			background-color: #000;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-twiddla,
+		footer .blogmatic-social-icon.official-color--enabled .fa-twiddla {
+			color: #013ca6;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-twiddla {
+			background-color: #013ca6;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-typepod_post,
+		footer .blogmatic-social-icon.official-color--enabled .fa-typepod_post {
+			color: #a0ac48;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-typepod_post {
+			background-color: #a0ac48;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-viadeo,
+		footer .blogmatic-social-icon.official-color--enabled .fa-viadeo,
+		header .blogmatic-social-icon.official-color--enabled .fa-square-viadeo,
+		footer .blogmatic-social-icon.official-color--enabled .fa-square-viadeo {
+			color: #EE7356;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-viadeo,
+		.blogmatic-social-share.color-inherit--global .social-share .fa-square-viadeo {
+			background-color: #EE7356;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-wykop,
+		footer .blogmatic-social-icon.official-color--enabled .fa-wykop {
+			color: #0091cd;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-wykop {
+			background-color: #0091cd;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-yoolink,
+		footer .blogmatic-social-icon.official-color--enabled .fa-yoolink {
+			color: #007cc0;
+		}
+
+		.blogmatic-social-share.color-inherit--global .social-share .fa-yoolink {
+			background-color: #007cc0;
+		}
+
+		header .blogmatic-social-icon.official-color--enabled .fa-youmob,
+		footer .blogmatic-social-icon.official-color--enabled .fa-youmob {
+			color: #fcd535;
+		}
+		
+		.blogmatic-social-share.color-inherit--global .social-share .fa-youmob {
+			background-color: #fcd535;
+		}
+
+
+	/** Custom Button Icon Hover Effect **/
+
+	/** Anaimation One **/
+		.header-custom-button.animation-type--one .custom-button-icon i {
+			transform-origin: top center;
+			animation: ring 1.5s ease infinite;
+		}
+
+		@keyframes ring {
+			0% {
+				transform: rotate(35deg);
+			}
+
+			12.5% {
+				transform: rotate(-30deg);
+			}
+
+			25% {
+			    transform: rotate(25deg);
+			}
+
+			37.5% {
+			    transform: rotate(-20deg);
+			}
+
+			50% {
+			    transform: rotate(15deg);
+			}
+
+			62.5% {
+			    transform: rotate(-10deg);
+			}
+
+			75% {
+			    transform: rotate(5deg);
+			}
+
+			100% {
+			    transform: rotate(0deg);
+			}
+		}
+
+	/** Anaimation Two **/
+		.header-custom-button.animation-type--two .custom-button-icon i {
+		    text-decoration: blink;
+		    -webkit-animation-name: blinker;
+		    -webkit-animation-duration: .6s;
+		    -webkit-animation-iteration-count: infinite;
+		    -webkit-animation-timing-function: ease-in-out;
+		    -webkit-animation-direction: alternate;
+		}
+
+		@keyframes blinker {
+			0% {
+			    opacity: 1.0;
+			}
+
+			100% {
+			    opacity: .0;
+			}
+		}
+
+	/** Anaimation Three **/
+		.header-custom-button.animation-type--three .custom-button-icon i {
+		    animation: rotate 5s infinite;
+		}
+
+		@keyframes rotate {
+			100% {
+			    transform: rotate(360deg);
+			}
+		}
+
+	/** Anaimation Four **/
+		.header-custom-button.animation-type--four .custom-button-icon i {
+		    animation: grow 3s linear infinite;
+		}
+
+		@keyframes grow {
+			0% {
+			    transform: scale(0.83);
+			}
+
+			50% {
+			    transform: scale(1.1);
+			}
+
+			100% {
+			    transform: scale(0.83);
+			}
+		}
+
+	/** Anaimation Five **/
+		.header-custom-button.animation-type--five .custom-button-icon i {
+			position: relative;
+		}
+
+		.header-custom-button.animation-type--five .custom-button-icon i:after {
+			content: '';
+		    background: #0000005c;
+		    animation: expand 3s linear 1s infinite;
+		    width: 25px;
+		    height: 25px;
+		    position: absolute;
+		    top: 50%;
+		    left: 50%;
+		    transform: translate(-50%, -50%);
+		    border-radius: 50%;
+		}
+
+		@keyframes expand {
+			0% {
+		        width: 10px;
+		        height: 10px;
+			}
+
+			50% {
+		        width: 25px;
+		        height: 25px;
+			}
+
+			100% {
+		        width: 10px;
+		        height: 10px;
+			}
+		}
+
+/* Menu Animation */
+	
+
+
+/** 4.0 News Kit Elementor Compatible **/
+
+	body.elementor-page article h2 {
+		font-weight: initial;
+		font-style: initial;
+	}
+
+	body.elementor-page.single-post #primary .blogmatic-inner-content-wrap article .entry-content a, body.single-post #primary article footer .tags-links a {
+	    text-decoration: initial;
+	}
+
+	body.elementor-page.single-post article .entry-content p a, body.elementor-page.single-post article .entry-content a {
+		color: initial;
+	}

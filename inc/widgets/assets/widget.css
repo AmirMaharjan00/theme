@@ -1,0 +1,174 @@
+/**
+ * Widegts styling
+ *
+ */
+
+ /**********************
+    Heading field
+ ***********************/
+ .blogmatic-heading-field {
+    border-top: 1px double rgb(0 0 0 / 25%);
+    border-bottom: 1px double rgb(0 0 0 / 25%);
+    text-transform: uppercase;
+    background-color: #eeeeee;
+    width: 100%;
+    margin-left: -10px;
+    padding: 6px 20px;
+ }
+
+ .blogmatic-heading-field .heading {
+    margin: 0;
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: 2px;
+ }
+
+ .blogmatic-widget-field {
+   margin: 1em 0;
+ }
+
+ .blogmatic-widget-field .title {
+    font-size: small;
+    margin: 4px 0;
+ }
+
+ .blogmatic-widget-field .description {
+   font-style: italic;
+   padding: 0!important;
+ }
+
+ .blogmatic-multicheckbox-field .multicheckbox-content {
+   border: 1px solid #c3c4c7;
+   padding: 8px 10px;
+   min-height: 200px;
+   overflow-y: scroll;
+ }
+
+ .blogmatic-multicheckbox-field .multicheckbox-content .multicheckbox-single-item {
+   padding: 5px;
+ }
+
+ .blogmatic-widget-field input,
+ .blogmatic-widget-field select,
+ .blogmatic-widget-field textarea {
+   border-radius: 0;
+ }
+
+ .blogmatic-upload-field .upload-trigger.selected,
+ .blogmatic-upload-field .upload-buttons img.nothasImage,
+ .blogmatic-upload-field .upload-buttons.not-selected {
+   display: none;
+ }
+
+ .blogmatic-upload-field .upload-trigger {
+    background-color: #f0f0f1;
+    color: #2c3338;
+    border: 1px dashed #c3c4c7;
+    box-sizing: border-box;
+    cursor: pointer;
+    line-height: 1.6;
+    padding: 9px 0;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.blogmatic-upload-field .upload-trigger:hover {
+  background-color: #fff;
+}
+
+.blogmatic-upload-field .upload-buttons button {
+  margin-top: 12px;
+  border-color: #d63638;
+}
+.blogmatic-upload-field .upload-buttons img{
+  width: 100%;
+}
+
+.blogmatic-widget-field .refer-note a {
+  color: #2271b1;
+}
+
+.blogmatic-icon-text-field .icon-selector-wrap {
+  display: none;
+}
+
+/* tab selector */
+.blogmatic-widget-field.blogmatic-icon-text-field .field-group-wrap .icon-selector i:after {
+  display: inline-block;
+  font-family: "Font Awesome 5 Free";
+  content: "\f107";
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 900;
+  line-height: 1;
+  color: var(--white-text);
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.blogmatic-widget-field.blogmatic-icon-text-field .field-group-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.blogmatic-widget-field.blogmatic-icon-text-field .field-group-wrap .icon-field {
+  flex: 1;
+  border: 1px solid #6a6a6a;
+  margin-right: 10px;
+  text-align: center;
+  padding-top: 5px;
+  border-radius: 4px;
+}
+
+.blogmatic-widget-field.blogmatic-icon-text-field .field-group-wrap .icon-field:hover {
+  cursor: pointer;
+}
+
+.blogmatic-widget-field.blogmatic-icon-text-field .field-group-wrap .icon-selector-wrap {
+  margin-top: 5px;
+  padding: 10px;
+  border: 1px solid #545454;
+  border-radius: 5px;;
+}
+
+.blogmatic-widget-field.blogmatic-icon-text-field .field-group-wrap .icon-selector-wrap i {
+  color: #545454;
+  padding: 5px;
+}
+
+.blogmatic-widget-field.blogmatic-icon-text-field .field-group-wrap .icon-selector-wrap i:hover {
+  color: #000;
+  cursor: pointer;
+}
+
+
+
+/** widget imae ratio and border radius **/
+
+.blogmatic-widget-field.blogmatic-responsive-number-field .widget-heading-wrap {
+  position: relative;
+}
+
+.blogmatic-widget-field.blogmatic-responsive-number-field .responsive-devices {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.blogmatic-widget-field.blogmatic-responsive-number-field .responsive-devices:hover {
+  cursor: pointer;
+}
+
+.blogmatic-widget-field.blogmatic-responsive-number-field .responsive-devices span {
+  color: #656363
+}
+
+.blogmatic-widget-field.blogmatic-responsive-number-field .responsive-devices span.isActive {
+  color: #0994d9;
+}
+
+.blogmatic-widget-field.blogmatic-responsive-number-field .responsive-fields-wrapper input.tablet-field,
+.blogmatic-widget-field.blogmatic-responsive-number-field .responsive-fields-wrapper input.smartphone-field{
+  display: none;
+}
